@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, sans-serif;
+  background-color: #c5c5c5;
+  color: black;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.recipe-list {
+  font-size: x-large;
+  list-style-type: circle;
+  outline: auto;
+  outline-offset: 5px;
+}
+
+.recipe-info {
+  font-size: large;
+}
+
+a:hover {
+  color: blue;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
